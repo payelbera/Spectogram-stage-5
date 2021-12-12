@@ -1,2 +1,2 @@
 # Spectogram-stage-5
-project solution for c85
+boilerplate code for c85 spectagram
